@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_shrey_yash_07" target="blank"><img src="https://img.shields.io/twitter/follow/_shrey_yash_07?logo=twitter&style=for-the-badge" alt="_shrey_yash_07" /></a> </p>
 
-- 🔭 I’m currently working on [PayPL](https://github.com/shreyashkatkar07/PayPL)
+- 🔭 I’m currently working on [PayPL](https://github.com/shreyashkatkar07/PayPL) Project. 
 
 - 🌱 I’m currently learning **backend technologies related to the MERN stack.**
 
 - 💬 Ask me about **MERN stack and DSA/CP**
 
-- 📫 How to reach me **Email me at shreyashkatkar04@gmail.com**
+- 📫 How to reach me : **Email me at shreyashkatkar04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
