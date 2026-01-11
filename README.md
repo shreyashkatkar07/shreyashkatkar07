@@ -4,7 +4,7 @@
 ## 🚀 About Me  
 🎓 **B.Tech 4th-year student** at [IIITDM Jabalpur](https://iiitdmj.ac.in/) (Computer Science & Engineering).  
 🔭 Currently working on **[SplitPay](https://github.com/shreyashkatkar07/SplitPay)**.  
-🌱 Learning **Next.js** to expand my backend skills.  
+🌱 Learning **Django** to expand my backend skills.  
 📫 Reach me at **[shreyashkatkar04@gmail.com](mailto:shreyashkatkar04@gmail.com)**.  
 
 ---
